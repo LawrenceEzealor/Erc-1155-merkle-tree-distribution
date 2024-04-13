@@ -21,7 +21,7 @@ contract AbegTest is Test {
     Result public result;
     User public user;
     bytes32 root =
-        0x9e7c204c2a0f3bd18560e700f7b8bad2ebf0a40fa87b240985006315fc2df515;
+        0x84db273760e94f2f4f277192aa6594bac89183e7e473ccbbb33ff6d28f5209cf;
 
     address user1 = 0x577Cb3F17e7075D141F3c10bCcA49c9B797AA18A;
 
